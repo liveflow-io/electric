@@ -22,7 +22,7 @@
     "dotenv": "^16.4.5",
     "eslint": "^8.57.0",
     "pg": "^8.13.1",
-    "playwright": "^1.52.0",
+    "playwright": "^1.55.1",
     "sst": "3.6.25",
     "typescript": "^5.5.3"
   }
