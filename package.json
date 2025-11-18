@@ -19,7 +19,7 @@
     "stylecheck-all": "pnpm --if-present --recursive run stylecheck"
   },
   "devDependencies": {
-    "glob": "^10.3.10"
+    "glob": "^11.1.0"
   },
   "pnpm": {
     "patchedDependencies": {
