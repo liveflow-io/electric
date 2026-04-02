@@ -1,0 +1,23 @@
+packages/typescript-client/src/client.ts
+  dc6cdd0076dbdf78 626,1245-1252
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.8",
+  "base_commit_sha": "16f9ccf5c38c92ceb521800ba893929585dbf05d",
+  "prompts": {
+    "dc6cdd0076dbdf78": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "c0d6d98e-23f0-45b5-b3cf-0cd4df129aea",
+        "model": "gpt-5.4"
+      },
+      "human_author": "Evan O'Brien <evan@liveflow.io>",
+      "messages": [],
+      "total_additions": 9,
+      "total_deletions": 0,
+      "accepted_lines": 9,
+      "overriden_lines": 0
+    }
+  }
+}
