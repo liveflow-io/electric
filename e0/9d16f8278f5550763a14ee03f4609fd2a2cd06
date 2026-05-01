@@ -1,0 +1,14 @@
+packages/typescript-client/src/index.ts
+  h_a079980f71aa83 20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "e09d16f8278f5550763a14ee03f4609fd2a2cd06",
+  "prompts": {},
+  "humans": {
+    "h_a079980f71aa83": {
+      "author": "Evan O'Brien"
+    }
+  }
+}
